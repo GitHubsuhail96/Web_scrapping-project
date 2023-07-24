@@ -1,9 +1,9 @@
 Web Scraping Project - Flipkart Laptop Data
-This project is a web scraping script written in Python using the BeautifulSoup library to extract laptop data from the Flipkart website. The script retrieves information such as product names, prices, ratings, descriptions, and images for Acer laptops.
+This project is a web scraping script written in Python using the BeautifulSoup library to extract laptop data from the Flipkart website. The script retrieves information such as product names, prices, ratings, descriptions, and images for all laptops.
 Requirements
 To run the script, you need the following:
 
-Python 3.x
+Python
 BeautifulSoup library
 Pandas library
 Requests library
@@ -20,4 +20,4 @@ Description: The detailed description of the laptop.
 Short Description: The short description of the laptop.
 Image: The URL of the main product image.
 Image Gallery: URLs of additional images of the product.
-Brand: The brand of the laptop (in this case, "Acer").
+Brand: The brand of the laptop (in this case, "all brands").
